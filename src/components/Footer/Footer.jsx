@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import {
-  FaFacebook,
   FaInstagram,
   FaLinkedin,
   FaLocationArrow,
@@ -30,19 +29,23 @@ const Footer = () => {
             </div>
             <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />
-              <p>+91 9755663636</p>
+              <p>+91 9826046890</p>
             </div>
             {/* Social Handle */}
             <div className="flex items-center gap-3 mt-6">
-              <a href="https://www.instagram.com/mrshabbar/" target="blank">
+              <a
+                href="https://www.instagram.com/aadilllkkkhhhaaannn/"
+                target="blank"
+              >
                 <FaInstagram className="text-3xl" />
               </a>
-              <a href="https://github.com/mrshabbarkhan" target="blank">
+              <a href="https://github.com/aadilllkkkhhhaaannn" target="blank">
                 <FaGithub className="text-3xl" />
               </a>
               <a
-                href="https://www.linkedin.com/in/shabbar-khan-82a72b291/"
-                target="blank">
+                href="https://www.linkedin.com/in/aadil-khan-9794712bb/"
+                target="blank"
+              >
                 <FaLinkedin className="text-3xl" />
               </a>
             </div>
@@ -92,7 +95,7 @@ const Footer = () => {
         </div>
         <div>
           <div className="text-center py-10 border-t-2 border-gray-300/50">
-            @copyright 2024 All rights reserved || Made with ❤️ by Mrshabbar
+            @copyright 2025 All rights reserved || Made with ❤️ by Aadil khan
           </div>
         </div>
       </section>
